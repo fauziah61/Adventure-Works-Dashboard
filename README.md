@@ -1,9 +1,20 @@
-# UK Bank Customers Dashboard
+# Adventure Works Dashboard
 
 Tools: Power BI, Azure Data Factory, Azure Synapse Analytics
 
 <p align="center">
-    <img width="958" src="https://github.com/Fauziahfh/UK-Bank-Customers-Dashboard/assets/134364048/ad868f0a-bcf7-40f4-b3c3-0e94e7d72908"><br>
-    UK Bank Customers Dashboard 
+    <img width="958" src="https://github.com/user-attachments/assets/91d42f98-d6b7-4275-aa18-29e907efead9"><br>
+    [Page 1] Adventure Works Dashboard 
    </p>
+
+<p align="center">
+    <img width="958" src="https://github.com/user-attachments/assets/8b098c74-229b-432d-bdb6-49d07f4ed634"><br>
+    [Page 2] Adventure Works Dashboard 
+   </p>
+
+<p align="center">
+    <img width="958" src="https://github.com/user-attachments/assets/8ebcf19f-155e-49ed-95d5-f0f6ae0a553e"><br>
+    [Page 3] Adventure Works Dashboard 
+   </p>
+
 
