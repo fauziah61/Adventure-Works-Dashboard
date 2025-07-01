@@ -1,6 +1,6 @@
 # Adventure Works Dashboard
 
-Tools: Power BI, Azure Data Factory, Azure Synapse Analytics
+Tools: Power BI
 
 <p align="center">
     <img width="958" src="https://github.com/user-attachments/assets/91d42f98-d6b7-4275-aa18-29e907efead9"><br>
